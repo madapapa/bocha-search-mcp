@@ -91,6 +91,12 @@ On Windows: `%APPDATA%/Claude/claude_desktop_config.json`
 npx @modelcontextprotocol/inspector uv --directory /path/to/bocha-search-mcp run bocha-search-mcp
 ```
 
+## 客户案例
+
+目前博查已经累计服务**3000+企业用户**和**20000+开发者用户**，并且成为**DeepSeek官方联网搜索供应方**以及**阿里、腾讯、字节官方推荐的搜索API**，目前**承接着国内60%以上AI应用的联网搜索请求**。
+
+博查的搜索内容源包括全网近百亿个网页，以及生态合作内容（含短视频、新闻、百科、天气、医疗、火车票、酒店、餐厅、景点、企业、学术等）。博查后续将会继续与各个平台在内容生态、智能体创作等方面开展共创合作，为博查用户的搜索问题提供丰富多彩的答案。
+
 ## 常见问题
 
 ### Bocha Web Search API服务可以提供什么样的能力?
